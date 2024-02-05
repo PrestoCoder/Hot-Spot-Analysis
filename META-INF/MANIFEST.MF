@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CSE512-Hotspot-Analysis-Template
+Implementation-Version: 0.1.0
+Specification-Vendor: org.datasyslab
+Specification-Title: CSE512-Hotspot-Analysis-Template
+Implementation-Vendor-Id: org.datasyslab
+Specification-Version: 0.1.0
+Main-Class: cse512.Entrance
+Implementation-Vendor: org.datasyslab
+
